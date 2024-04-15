@@ -27,7 +27,7 @@ sudo ./crack.sh
 
 
 
-![Panel de Menu ](https://raw.githubusercontent.com/kuaks96/Criptografia/main/crack.png)
+![Panel de Menu ](https://raw.githubusercontent.com/kuaks96/wifi-auditor/main/crack.png)
 
 
 
@@ -77,17 +77,32 @@ BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ES
  SSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes
 
 Quitting...
+
+
 Ingrese la direccion MAC de la red: FF:FF:FF:FF:FF:FF
+
 Ingrese la direccion MAC del cliente:  
+
 02:27:52  Waiting for beacon frame (BSSID:  FF:FF:FF:FF:FF:FF ) on channel 1
+
+
 02:27:52  Sending 64 directed DeAuth (code 7). STMAC: [ FF:FF:FF:FF:FF:FF ] [127|127 ACKs]
+
 02:27:53  Sending 64 directed DeAuth (code 7). STMAC: [ FF:FF:FF:FF:FF:FF ] [117|117 ACKs]
+
 02:27:54  Sending 64 directed DeAuth (code 7). STMAC: [ FF:FF:FF:FF:FF:FF ] [136|136 ACKs]
+
 ¿Desea seguir con la misma direccion MAC? (1 = yes, 2 = no): 1
+
 02:27:59  Waiting for beacon frame (BSSID: FF:FF:FF:FF:FF:FF) on channel 1
+
 02:28:00  Sending 64 directed DeAuth (code 7). STMAC: [ FF:FF:FF:FF:FF:FF ] [125|125 ACKs]
+
 02:28:01  Sending 64 directed DeAuth (code 7). STMAC: [ FF:FF:FF:FF:FF:FF ] [126|126 ACKs]
+
 02:28:01  Sending 64 directed DeAuth (code 7). STMAC: [ FF:FF:FF:FF:FF:FF ] [111|111 ACKs]
+
+
 02:28:02  Sending 64 directed DeAuth (code 7). STMAC: [ FF:FF:FF:FF:FF:FF ] [147|147 ACKs]
 
 
